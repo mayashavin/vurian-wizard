@@ -1,0 +1,10 @@
+{
+    "title": "Documentation for Vurian Wizard",
+    "url": "",
+    "logo": {
+      "light": "/logo-light.png",
+      "dark": "/logo-dark.png"
+    },
+    "github": "mayashavin/vurian-wizard",
+    "twitter": "@mayashavin"
+  }
