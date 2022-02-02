@@ -6,6 +6,8 @@ category: Guide
 version: 1
 ---
 
+This is a single package for single Vue component - `VrWizard`.
+
 ## Installation
 
 Add `@vurian/wizard` dependency to your project:
