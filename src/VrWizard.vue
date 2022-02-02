@@ -99,7 +99,10 @@ const statesKeys = Object.keys(props.states).sort((a, b) => props.states[a].orde
 const machineService = interpret(createMachine({
   initial: props.initial,
   id: props.id,
-  context: props.context,
+  context: {
+    currentView: props.context.currentView || props.states[props.initial].stepView,
+    ...props.context
+  },
   states: statesKeys.reduce((result: WizardStepsConfig, key: string, currIndex: number, arr: string[]):WizardStepsConfig => {
     const prevState = currIndex - 1 >= 0 ? { id: arr[currIndex - 1], ...props.states[arr[currIndex - 1]] } : undefined;
     const nextState = currIndex + 1 <= arr.length ? { id: arr[currIndex + 1], ...props.states[arr[currIndex + 1]] } : undefined;
