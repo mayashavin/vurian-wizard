@@ -20,7 +20,9 @@ The more organized and out-of-the-box for Wizard Component from the Vurian proje
 
 It's Vue and Durian :).
 
-It is a component library project that aims to organize components using state machines. Vurian is a [Starcaller character from WoW](https://worldofwarcraft.com/en-us/character/us/emerald-dream/vurian), and also a tribe in [Star Trek](https://memory-beta.fandom.com/wiki/Vurian).
+It is a component library project that aims to organize components using state machines. 
+
+**Fun fact**: Vurian is a tribe in [Star Trek](https://memory-beta.fandom.com/wiki/Vurian).
 
 The first featured component is `@vurian/wizard`
 
