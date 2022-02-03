@@ -2,7 +2,7 @@
 title: Override stylings
 description: 'How to add your own styles to the wizard'
 position: 5
-category: Wizard
+category: wizard
 version: 1
 ---
 

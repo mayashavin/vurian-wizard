@@ -2,7 +2,7 @@
 title: Usage
 description: 'How to use the wizard'
 position: 4
-category: Wizard
+category: wizard
 version: 1
 ---
 

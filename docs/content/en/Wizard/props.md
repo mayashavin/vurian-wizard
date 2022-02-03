@@ -2,7 +2,7 @@
 title: Props
 description: 'Acceptable props for Wizard'
 position: 3
-category: Wizard
+category: wizard
 version: 1
 ---
 
