@@ -60,10 +60,10 @@ In the upcoming release we will have this support enabled automatically.
   </code-block>
 </code-group>
 
-Once installed, you can pass your own event actions by using `assign()` in the [wizard config Object](/wizard/props).
+Once installed, you can pass your own event actions by using `assign()` in the [wizard config Object](/Wizard/props).
 
 ## TypeScript Support
 
 `@vurian/wizard` supports TypeScript by default.
 
-And that's it 🎉! See [Wizard](/wizard/props) section for how to use the component.
+And that's it 🎉! See [Wizard](/Wizard/props) section for how to use the component.

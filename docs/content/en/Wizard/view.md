@@ -8,7 +8,7 @@ version: 1
 
 View component per step is rendered automatically upon the state changes. Each component will receive an instance of the created wizard machine - `service`, so you can add additional actions or events. Also, you can use `service.send` to trigger internal custom events defined in the wizard config, or `service.state` to retrieve context data or other information about the current state.
 
-An example of Payment state view, based on [the configuration example](/wizard/usage) can be found below:
+An example of Payment state view, based on [the configuration example](/Wizard/usage) can be found below:
 
 ```vue
 <template>

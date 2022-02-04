@@ -104,7 +104,9 @@ const onComplete = () => {
 }
 
 const options = {
-    isAgreeToTerm: (ctx) => ctx.agreeToTerms && !!ctx.paymentMethod,
+    guards: {
+        isAgreeToTerm: (ctx) => ctx.agreeToTerms && !!ctx.paymentMethod,
+    },
 }
 </script>
 ```
