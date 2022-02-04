@@ -7,7 +7,7 @@ export default theme({
     ]
   },
   docs: {
-    primaryColor: '#aad372'
+    primaryColor: '#F8E479'
   },
   pwa: {
     manifest: {
