@@ -10,7 +10,7 @@
 
 The more organized and out-of-the-box for Wizard Component from the Vurian project, written in TypeScript and using [XState](https://xstate.js.org).
 
-📚 Documentation: [https://vurianjs.netlify.app]
+📚 Documentation: [https://vurianjs.netlify.app](https://vurianjs.netlify.app)
 
 🎮 Playground: TBD
 
