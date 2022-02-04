@@ -6,6 +6,8 @@
 [![npm download](https://img.shields.io/npm/dt/@vurian/wizard.svg)](https://www.npmjs.com/package/@vurian/wizard)
 <!-- endbadge -->
 
+![Vurian logo](./docs/dist/preview.png)
+
 The more organized and out-of-the-box for Wizard Component from the Vurian project, written in TypeScript and using [XState](https://xstate.js.org).
 
 📚 Documentation: [https://vurianjs.netlify.app]
