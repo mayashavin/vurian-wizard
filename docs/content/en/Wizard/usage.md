@@ -344,7 +344,7 @@ A video will come soon.
 
 ## Visualize the wizard's flows
 
-You can also visualize your steps by using the visualizer from Stately (just need to define the next/prev yourself). There is plan for component visualizer to be coming soon :)!
+You can also visualize your steps by using [the visualizer from Stately](https://stately.ai/viz) (just need to define the next/prev yourself). There is plan for component visualizer to be coming soon :)!
 
 Our example wizard's flows above can be visualized as below:
 
